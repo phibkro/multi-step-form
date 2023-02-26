@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+}
+
+a {
+}
+
+a:hover {
+}
+
+@media (prefers-color-scheme: light) {
+}
